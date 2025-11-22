@@ -65,12 +65,12 @@ const jayakrishna = {
 ## GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayakrishnaa18&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnaa18&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayakrishnaa18&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnaa18&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnaa18&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnaa18&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ const jayakrishna = {
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayakrishnaa18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayakrishnaa18&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
