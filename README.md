@@ -13,62 +13,20 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### 👨‍💻 About Me
 
-```yaml
-name: Jayakrishna Akaliki
-location: India
-role: Full Stack Developer
-focus: Building Intelligent & Scalable Solutions
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-expertise:
-  frontend: ["React", "HTML5", "CSS3", "JavaScript"]
-  backend: ["Node.js", "Express", "Python"]
-  database: ["MongoDB", "MySQL"]
-  ai_ml: ["TensorFlow", "PyTorch", "scikit-learn"]
-  cloud: ["AWS", "Docker", "Kubernetes"]
-  devops: ["Jenkins", "Terraform", "CI/CD"]
-  
-current_work:
-  - Developing full stack web applications
-  - Implementing machine learning models
-  - Designing cloud-native architectures
-  - Automating deployment pipelines
-  
-learning_path:
-  - Advanced Kubernetes orchestration
-  - MLOps and model deployment
-  - Microservices design patterns
-  - System design at scale
-```
+- 🔭 Full Stack Developer passionate about creating impactful solutions
+- 🤖 Working with AI/ML to build intelligent applications
+- ☁️ Experienced in AWS cloud services and infrastructure
+- 🚀 DevOps enthusiast automating everything possible
+- 🌱 Currently mastering Kubernetes and microservices
+- 💡 Love solving complex problems with elegant code
+- 🤝 Open to collaborating on innovative projects
+- 📫 Reach me at **jayakrishnaakaliki@gmail.com**
 
-</td>
-<td width="45%" valign="top">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
-
-### 🚀 What I Do
-
-- Design and develop responsive web applications
-- Build and deploy ML models in production
-- Architect scalable cloud infrastructure
-- Implement automated CI/CD workflows
-- Write clean, maintainable code
-
-### 🎯 Goals
-
-- Contribute to impactful open source projects
-- Master cloud-native technologies
-- Build AI-powered applications
-- Share knowledge with the community
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
