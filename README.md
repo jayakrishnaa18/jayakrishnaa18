@@ -20,35 +20,30 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Jayakrishna
-location: India 🇮🇳
+name: Jayakrishna Akaliki
+location: India
 role: Full Stack Developer
-education:
-  - Computer Science
-  - AI/ML Specialization
+focus: Building Intelligent & Scalable Solutions
 
-interests:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Cloud Computing
-  - DevOps & Automation
-  - System Design
-  
 expertise:
-  - Scalable Web Applications
-  - AI/ML Model Development
-  - AWS Cloud Infrastructure
-  - CI/CD Pipeline Automation
+  frontend: ["React", "HTML5", "CSS3", "JavaScript"]
+  backend: ["Node.js", "Express", "Python"]
+  database: ["MongoDB", "MySQL"]
+  ai_ml: ["TensorFlow", "PyTorch", "scikit-learn"]
+  cloud: ["AWS", "Docker", "Kubernetes"]
+  devops: ["Jenkins", "Terraform", "CI/CD"]
   
-learning: 
-  - Kubernetes
-  - MLOps
-  - Microservices Architecture
+current_work:
+  - Developing full stack web applications
+  - Implementing machine learning models
+  - Designing cloud-native architectures
+  - Automating deployment pipelines
   
-hobbies: 
-  - Coding
-  - Problem Solving
-  - Open Source Contribution
+learning_path:
+  - Advanced Kubernetes orchestration
+  - MLOps and model deployment
+  - Microservices design patterns
+  - System design at scale
 ```
 
 </td>
@@ -56,19 +51,20 @@ hobbies:
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
 
-### 🎯 Current Focus
+### 🚀 What I Do
 
-- Building production-ready applications
-- Implementing AI solutions
-- Cloud-native architecture
-- DevOps best practices
+- Design and develop responsive web applications
+- Build and deploy ML models in production
+- Architect scalable cloud infrastructure
+- Implement automated CI/CD workflows
+- Write clean, maintainable code
 
-### 💡 Fun Facts
+### 🎯 Goals
 
-- Debug with console.log()
-- Coffee-driven developer
-- Always learning something new
-- Open to collaboration
+- Contribute to impactful open source projects
+- Master cloud-native technologies
+- Build AI-powered applications
+- Share knowledge with the community
 
 </td>
 </tr>
