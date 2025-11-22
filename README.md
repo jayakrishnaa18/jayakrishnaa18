@@ -82,13 +82,13 @@
 ### Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jayakrishnaa18" target="_blank">
+  <a href="https://in.linkedin.com/in/jayakrishnaakaliki" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/jayakrishnaa18" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:jayakrishnaa18@gmail.com">
+  <a href="mailto:jayakrishnaakaliki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/jayakrishnaa18" target="_blank">
