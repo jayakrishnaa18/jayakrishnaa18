@@ -13,18 +13,24 @@
 
 ---
 
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- 💼 **Full Stack Developer** building scalable web applications
+- 🤖 Passionate about **AI/ML** and intelligent automation
+- ☁️ Proficient in **AWS Cloud** infrastructure and services
+- 🔧 **DevOps** practitioner with CI/CD expertise
+- 🎯 Currently exploring **Kubernetes** and **Microservices**
+- 💻 Tech stack: **React, Node.js, Python, Docker, AWS**
+- 🌟 Love contributing to **Open Source** projects
+- 🚀 Always learning and building something new
 
-- 🔭 Full Stack Developer passionate about creating impactful solutions
-- 🤖 Working with AI/ML to build intelligent applications
-- ☁️ Experienced in AWS cloud services and infrastructure
-- 🚀 DevOps enthusiast automating everything possible
-- 🌱 Currently mastering Kubernetes and microservices
-- 💡 Love solving complex problems with elegant code
-- 🤝 Open to collaborating on innovative projects
-- 📫 Reach me at **jayakrishnaakaliki@gmail.com**
+### 📬 Get in Touch
+
+- 📧 Email: **jayakrishnaakaliki@gmail.com**
+- 💼 LinkedIn: **[jayakrishnaakaliki](https://in.linkedin.com/in/jayakrishnaakaliki)**
+- 🐦 Twitter: **[@jayakrishnaa18](https://twitter.com/jayakrishnaa18)**
 
 <br clear="right"/>
 
