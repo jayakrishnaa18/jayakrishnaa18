@@ -68,14 +68,6 @@ const jayakrishna = {
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayakrishnaa18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
 ## Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayakrishnaa18&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/jayakrishnaa18)
@@ -107,8 +99,6 @@ const jayakrishna = {
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Snake animation](https://raw.githubusercontent.com/jayakrishnaa18/jayakrishnaa18/output/github-contribution-grid-snake-dark.svg)
 
 **Thanks for visiting! Feel free to explore my repositories and star if you find something interesting.**
 
