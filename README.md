@@ -48,7 +48,7 @@ Twitter: [@jayakrishnaa18](https://twitter.com/jayakrishnaa18)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -111,7 +111,7 @@ Twitter: [@jayakrishnaa18](https://twitter.com/jayakrishnaa18)
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayakrishnaa18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
@@ -128,7 +128,7 @@ Twitter: [@jayakrishnaa18](https://twitter.com/jayakrishnaa18)
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://in.linkedin.com/in/jayakrishnaakaliki">
