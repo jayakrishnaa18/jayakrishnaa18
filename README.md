@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jayakrishna
+# Hi, I'm Jayakrishna
 
 ### Software Developer | Cloud Enthusiast | Open Source Contributor
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const jayakrishna = {
@@ -20,11 +20,11 @@ const jayakrishna = {
     role: "Software Developer",
     interests: ["Cloud Computing", "DevOps", "System Design", "Open Source"],
     currentFocus: "Building scalable applications and learning cloud architecture",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
 
-## 💼 Technical Skills
+## Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +55,7 @@ const jayakrishna = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayakrishnaa18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -68,7 +68,7 @@ const jayakrishna = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jayakrishnaa18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
@@ -76,23 +76,22 @@ const jayakrishna = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayakrishnaa18&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/jayakrishnaa18)
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
-- 🔭 Working on cloud-native applications and microservices architecture
-- 🌱 Learning advanced AWS services and Kubernetes orchestration
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about Python, AWS, Docker, or anything tech-related
-- ⚡ Fun fact: I believe the best code is the code you don't have to write
+- Working on cloud-native applications and microservices architecture
+- Learning advanced AWS services and Kubernetes orchestration
+- Looking to collaborate on open source projects
+- Ask me about Python, AWS, Docker, or anything tech-related
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -105,20 +104,13 @@ const jayakrishna = {
 
 ---
 
-## 💻 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ![Snake animation](https://raw.githubusercontent.com/jayakrishnaa18/jayakrishnaa18/output/github-contribution-grid-snake-dark.svg)
 
-**Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
+**Thanks for visiting! Feel free to explore my repositories and star if you find something interesting.**
 
 </div>
 
@@ -126,6 +118,6 @@ const jayakrishna = {
 
 <div align="center">
   
-[![Made with ❤️ by Jayakrishna](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Jayakrishna-red?style=flat-square)](https://github.com/jayakrishnaa18)
+[![Made with love by Jayakrishna](https://img.shields.io/badge/Made%20with%20love%20by-Jayakrishna-red?style=flat-square)](https://github.com/jayakrishnaa18)
 
 </div>
