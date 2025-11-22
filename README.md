@@ -11,11 +11,13 @@
 
 ### About Me
 
-- Full Stack Developer passionate about building scalable applications
-- Experienced in AI/ML model development and deployment
-- Cloud architecture and DevOps automation specialist
-- Open source contributor and continuous learner
-- Currently focusing on microservices, Kubernetes, and MLOps
+- Full Stack Developer with expertise in building modern web applications
+- Passionate about AI/ML and implementing intelligent solutions
+- Experienced in cloud infrastructure and DevOps automation on AWS
+- Strong focus on writing clean, scalable, and maintainable code
+- Active learner exploring microservices architecture and Kubernetes
+- Enthusiastic about contributing to open source projects
+- Always eager to learn new technologies and solve complex problems
 
 ---
 
