@@ -14,15 +14,45 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="50%">
+
 ```javascript
 const jayakrishna = {
     location: "India",
     role: "Full Stack Developer",
-    interests: ["AI/ML", "Cloud Computing", "DevOps", "System Design", "Open Source"],
-    currentFocus: "Building scalable applications with AI integration and cloud architecture",
+    specialization: [
+        "AI/ML Engineering",
+        "Cloud Architecture",
+        "DevOps Automation"
+    ],
+    currentFocus: "Building scalable AI-powered applications",
+    learning: ["Advanced Kubernetes", "MLOps", "System Design"],
     funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
+
+</td>
+<td width="50%">
+
+### What I Do
+
+- Build end-to-end web applications with modern tech stacks
+- Develop and deploy machine learning models
+- Design cloud-native architectures on AWS
+- Automate infrastructure with DevOps practices
+- Contribute to open source projects
+
+### Currently Working On
+
+- AI/ML integration in production systems
+- Microservices architecture with Kubernetes
+- Cloud automation and infrastructure as code
+
+</td>
+</tr>
+</table>
 
 ## Technical Skills
 
