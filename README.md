@@ -64,23 +64,22 @@ const jayakrishna = {
 
 ## GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayakrishnaa18&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnaa18&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayakrishnaa18&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakrishnaa18&theme=radical&hide_border=true" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnaa18&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jayakrishnaa18&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnaa18&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayakrishnaa18&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayakrishnaa18&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
