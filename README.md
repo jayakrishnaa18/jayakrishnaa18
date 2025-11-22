@@ -6,43 +6,73 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+%26+DevOps+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
   
-</div>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayakrishnaa18&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/jayakrishnaa18?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-</p>
+  
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 
 ```yaml
 name: Jayakrishna
-located_in: India
-current_role: Full Stack Developer
-education: ["Computer Science", "AI/ML"]
+location: India 🇮🇳
+role: Full Stack Developer
+education:
+  - Computer Science
+  - AI/ML Specialization
 
-fields_of_interests:
+interests:
   - Full Stack Development
   - Artificial Intelligence
   - Cloud Computing
   - DevOps & Automation
   - System Design
   
-technical_background:
-  - Building scalable web applications
-  - Developing AI/ML models
-  - Cloud infrastructure on AWS
-  - CI/CD pipeline automation
+expertise:
+  - Scalable Web Applications
+  - AI/ML Model Development
+  - AWS Cloud Infrastructure
+  - CI/CD Pipeline Automation
   
-currently_learning: ["Kubernetes", "MLOps", "Microservices"]
-hobbies: ["Coding", "Problem Solving", "Open Source"]
+learning: 
+  - Kubernetes
+  - MLOps
+  - Microservices Architecture
+  
+hobbies: 
+  - Coding
+  - Problem Solving
+  - Open Source Contribution
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
+
+### 🎯 Current Focus
+
+- Building production-ready applications
+- Implementing AI solutions
+- Cloud-native architecture
+- DevOps best practices
+
+### 💡 Fun Facts
+
+- Debug with console.log()
+- Coffee-driven developer
+- Always learning something new
+- Open to collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
