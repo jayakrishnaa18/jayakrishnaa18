@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm Jayakrishna, a Full Stack Developer specializing in building scalable web applications and intelligent systems. I focus on creating efficient, maintainable solutions that solve real-world problems.
+I'm Jayakrishnaa, a Full Stack Developer specializing in building scalable web applications and intelligent systems. I focus on creating efficient, maintainable solutions that solve real-world problems.
 
 **Technical Focus**
 
